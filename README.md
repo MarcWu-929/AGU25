@@ -5,6 +5,7 @@
 
 #### *Biological Systems Engineering*, University of Wisconsin-Madison
 
+More figures and results can be found here: https://github.com/MarcWu-929/AGU25/blob/main/Figures.md
 
 
 **Acknowledgement**: University of Wisconsin-Madison Graduate School,  Student Research Grants Competition – Conference Presentation Funds
